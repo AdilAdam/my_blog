@@ -1,9 +1,9 @@
-- title: Email
-  url: mailto://adl1994@outlook.com
-  icon: fas fa-envelope
 - title: GitHub
   url: https://github.com/AdilAdam
   icon: fab fa-github
 - title: Strava
   url: https://www.strava.com/athletes/105384577
   icon: fab fa-strava
+- title: Email
+  url: mailto://adl1994@outlook.com
+  icon: fas fa-envelope
