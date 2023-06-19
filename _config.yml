@@ -1,11 +1,10 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: Adiljan Abduniyaz
+url: https://github.com/AdilAdam
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: 
 
 # Gems
 plugins:
