@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Adiljan Abduniyaz"]
   spec.email         = ["adl1994@outlook.com"]
 
-  spec.homepage      = "https://github.com/vszhub/not-pure-jekyll"
+  spec.homepage      = "https://github.com/AdilAdam/"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README)!i) }
