@@ -1,5 +1,5 @@
 ---
-layout: archive-cv
+layout: page
 permalink: /cv/
-title: resume
+title: Resume
 ---
