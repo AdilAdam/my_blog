@@ -4,3 +4,6 @@
 - title: GitHub
   url: https://github.com/AdilAdam
   icon: fab fa-github
+- title: WeChat
+  url: https://www.wechat.com/:{"AdilAdams"}
+  icon: fab fa-WeChat
