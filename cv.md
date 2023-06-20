@@ -1,5 +1,5 @@
 ---
 layout: cv
-permalink: \cv\
+permalink: /cv/
 title: Resume
 ---
