@@ -1,0 +1,16 @@
+---
+layout: post
+title: Linux Commands
+tags: basic
+date: 2023-10-15 14:30 +0800
+---
+
+kill GPUs by PID
+```sh
+fuser -v /dev/nvidia* | awk '{for(i=0;i<NF;i++); print "kill -9 "$i}' | bash
+```
+kill process by PID
+```sh
+ps -aux # check out previous progress list
+kill -9 PID 
+```
