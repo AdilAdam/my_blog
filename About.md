@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 ---
-
+[](avatar.jpeg)
 My name is Adiljan Abuduniyaz, and I am a Machine Learning Engineer at SinoVoice. Proir to my current role, I was a data scientist on the academy of Junlin CO.,LTD & SpeakIn AI.
 
 I graduated from Xinjiang University, in 2018 with a Bachelor's degree of Electronic Information Engineering, in 2021 with a Master's degree of Information and Communication Engineering.
