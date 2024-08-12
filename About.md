@@ -25,6 +25,4 @@ My research interests primarily lie in the field of conversational AI, indluding
 - Cycling
 - Swimming
 - Digital photography
-- Cooking
-
-
+- Cooking  
