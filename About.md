@@ -4,7 +4,7 @@ title: About
 ---
 
 
-![test](test.PNG)
+![test](avatar.jpeg)
 
 My name is Adiljan Abuduniyaz, and I am a Machine Learning Engineer at SinoVoice. Proir to my current role, I was a data scientist on the academy of Junlin CO.,LTD & SpeakIn AI.
 
