@@ -14,7 +14,7 @@ My research interests primarily lie in the field of conversational AI, indluding
 
 #### TECHNICAL SKILLS
 - OS: Linux, Windows
-- Languages: Python,Shell; C++(recently starting to learn)
+- Languages: Python,Shell; C++(recently start learning)
 - ML Frameworks: PyTorch, scikit-learn
 - Deep Learning: Transformers, BERT, Wav2vec, WavLM,CNNs, RNNs
 - Deploy: Docker, gRPC, Torchscript, ONNX, TensorRT
