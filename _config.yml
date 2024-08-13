@@ -4,7 +4,7 @@ url: https://github.com/AdilAdam
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
-cover_image:
+cover_image: /bg.jpeg
 
 # Gems
 plugins:
